@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1536683895 source:e:\snakegame\snakegame\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	<conio.h>
+
